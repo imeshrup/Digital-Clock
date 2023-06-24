@@ -1,0 +1,10 @@
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.DigitalClock.resources
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\IMESH\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
